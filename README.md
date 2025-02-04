@@ -42,7 +42,7 @@ Overview of function definition
 - functions are defined like those Haskell. A type Signature and implmentation(which could be several)
 - functions are curried, `_` are used to skip giving an argument
 
-```
+```haskell
 // function definition
 func Int Int Int
 func x y (x+y)
