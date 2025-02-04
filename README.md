@@ -34,7 +34,7 @@ Example:
 - Functions are first class
 - Functions are curried
 - Functions can have dependent arguments (will be syntax sugar and desugared into guarded types)
-- When a function call can fail, the compiler will require the author to write ? to mark where the failure will occur - right now, no failure handling will be offered - it the function fails, <i have no idea yet>
+- When a function call can fail, the compiler will require the author to write ? to mark where the failure will occur - right now, no failure handling will be offered - it the function fails, (i have no idea yet)
   Example
 
 Overview of function definition
