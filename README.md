@@ -1,6 +1,9 @@
 # space
 
+Update: This has evolved into zoar. This repo is outdated
+
 WIP programming language of guarded types, pattern matching, and dependent arguments. Nothing has been done yet. Design-only for now.
+
 
 ## Main Features
 
